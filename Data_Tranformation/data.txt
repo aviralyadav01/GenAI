@@ -1,0 +1,17 @@
+Ye normal DoclingLoader use karte waqt nahi aani chahiye.
+
+Is warning ka matlab hai ki Docling external plugin system ko load karne ki koshish ho rahi hai, lekin allow_external_plugins=False hai. Third-party plugins ko use karna ho tab ise enable kiya jata hai. Normal DoclingLoader ke liye iski zarurat nahi hoti.
+
+Mujhe lagta hai tumne inme se koi cheez ki hai:
+docling CLI use kiya.
+Ya direct docling package ki plugin configuration use kar rahe ho.
+Ya kisi tutorial ka code chalaya jo external plugins enable karna chahta hai.
+Ek kaam karo
+
+Mujhe ye 3 cheezein bhej do:
+
+requirements.txt
+Wo code jahan DoclingLoader use kar rahe ho.
+Poora traceback (sirf warning nahi, poora terminal output).
+
+Main 1 minute me bata dunga ki issue configuration ka hai, version mismatch ka hai, ya installation ka

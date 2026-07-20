@@ -1,0 +1,5 @@
+python-dotenv
+langchain
+langchain-docling
+langchain-text-splitters
+
