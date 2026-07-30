@@ -1,5 +1,13 @@
-python-dotenv
+
 langchain
 langchain-docling
 langchain-text-splitters
+langchain-groq
+groq
+python-dotenv
+langchain_huggingface
+sentence_transformers
+
+
+
 
